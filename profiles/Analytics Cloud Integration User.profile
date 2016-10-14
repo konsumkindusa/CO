@@ -63,6 +63,11 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.AccountStatus__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.Active__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -94,6 +99,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.UpsellOpportunity__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>CapOneDemo__c.CapOneDemoName__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -255,6 +265,18 @@
     <layoutAssignments>
         <layout>User-User Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>CapOneDemo__c-CapOneDemo Layout</layout>
+    </layoutAssignments>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>CapOneDemo__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Metric.Completion</recordType>
