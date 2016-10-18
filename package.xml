@@ -81,7 +81,12 @@
     </types>
     <types>
         <members>CapOne_Demo-1</members>
+        <members>CapOne_Demo-2</members>
         <name>Flow</name>
+    </types>
+    <types>
+        <members>CapOne_Demo</members>
+        <name>FlowDefinition</name>
     </types>
     <types>
         <members>DE Default</members>
