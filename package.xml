@@ -57,6 +57,7 @@
     </types>
     <types>
         <members>CapOneDemo__c</members>
+        <members>Vehicle__c</members>
         <name>CustomObject</name>
     </types>
     <types>
