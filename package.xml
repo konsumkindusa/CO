@@ -53,10 +53,12 @@
         <members>Opportunity.MainCompetitors__c</members>
         <members>Opportunity.OrderNumber__c</members>
         <members>Opportunity.TrackingNumber__c</members>
+        <members>Test_OIbject__c.Demo_date__c</members>
         <name>CustomField</name>
     </types>
     <types>
         <members>CapOneDemo__c</members>
+        <members>Test_OIbject__c</members>
         <members>Vehicle__c</members>
         <name>CustomObject</name>
     </types>
@@ -149,6 +151,7 @@
         <members>ServiceContract-Service Contract Layout</members>
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
+        <members>Test_OIbject__c-Test OIbject Layout</members>
         <members>User-User Layout</members>
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
