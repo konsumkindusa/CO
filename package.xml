@@ -60,6 +60,7 @@
         <members>Book__c</members>
         <members>CapOneDemo__c</members>
         <members>Test_OIbject__c</members>
+        <members>Trail__c</members>
         <members>Vehicle__c</members>
         <name>CustomObject</name>
     </types>
