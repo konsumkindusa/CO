@@ -63,6 +63,8 @@
     </types>
     <types>
         <members>Book__c</members>
+        <members>Campsite_Reservation__c</members>
+        <members>Campsite__c</members>
         <members>CapOneDemo__c</members>
         <members>CustomObject1__c</members>
         <members>CustomObject2__c</members>
