@@ -45,6 +45,11 @@
         <members>Account.SLA__c</members>
         <members>Account.UpsellOpportunity__c</members>
         <members>Book__c.Price__c</members>
+        <members>Campsite_Reservation__c.Campsite__c</members>
+        <members>Campsite_Reservation__c.End_Date__c</members>
+        <members>Campsite_Reservation__c.Start_Date__c</members>
+        <members>Campsite_Reservation__c.User__c</members>
+        <members>Campsite__c.Description__c</members>
         <members>CapOneDemo__c.CapOneDemoName__c</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.PotentialLiability__c</members>
