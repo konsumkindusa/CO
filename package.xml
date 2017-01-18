@@ -44,6 +44,7 @@
         <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
         <members>Account.UpsellOpportunity__c</members>
+        <members>Book__c.Price__c</members>
         <members>CapOneDemo__c.CapOneDemoName__c</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.PotentialLiability__c</members>
@@ -131,6 +132,7 @@
         <members>Account-Account %28Support%29 Layout</members>
         <members>Account-Account Layout</members>
         <members>Asset-Asset Layout</members>
+        <members>Book__c-Book Layout</members>
         <members>Campaign-Campaign Layout</members>
         <members>CampaignMember-Campaign Member Page Layout</members>
         <members>CapOneDemo__c-CapOneDemo Layout</members>
