@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>37.0</version>
+    <version>39.0</version>
+    <types>
+        <members>HelloWorldTestClass</members>
+        <members>MyHelloWorld</members>
+        <name>ApexClass</name>
+    </types>
     <types>
         <members>Case.Standard</members>
         <members>Lead.Standard</members>
         <name>AssignmentRule</name>
     </types>
     <types>
+        <members>Case</members>
+        <members>Lead</members>
+        <name>AssignmentRules</name>
+    </types>
+    <types>
         <members>Internal Zone</members>
         <name>Community</name>
+    </types>
+    <types>
+        <members>Campsite_Reservation__c.Campsite_Reservation</members>
+        <name>CompactLayout</name>
     </types>
     <types>
         <members>standard__AppLauncher</members>
@@ -34,6 +48,12 @@
         <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
         <members>Account.UpsellOpportunity__c</members>
+        <members>Book__c.Price__c</members>
+        <members>Campsite_Reservation__c.Campsite__c</members>
+        <members>Campsite_Reservation__c.End_Date__c</members>
+        <members>Campsite_Reservation__c.Start_Date__c</members>
+        <members>Campsite_Reservation__c.User__c</members>
+        <members>Campsite__c.Description__c</members>
         <members>CapOneDemo__c.CapOneDemoName__c</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.PotentialLiability__c</members>
@@ -53,10 +73,18 @@
         <members>Opportunity.MainCompetitors__c</members>
         <members>Opportunity.OrderNumber__c</members>
         <members>Opportunity.TrackingNumber__c</members>
+        <members>Test_OIbject__c.Demo_date__c</members>
         <name>CustomField</name>
     </types>
     <types>
+        <members>Book__c</members>
+        <members>Campsite_Reservation__c</members>
+        <members>Campsite__c</members>
         <members>CapOneDemo__c</members>
+        <members>CustomObject1__c</members>
+        <members>CustomObject2__c</members>
+        <members>Fundraiser__c</members>
+        <members>Test_OIbject__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -74,6 +102,11 @@
         <members>unfiled$public/SupportSelfServiceNewLoginandPassword</members>
         <members>unfiled$public/SupportSelfServiceResetPassword</members>
         <name>EmailTemplate</name>
+    </types>
+    <types>
+        <members>caponedemo-entitlementprocess</members>
+        <members>caponedemo-entitlementprocessv1</members>
+        <name>EntitlementProcess</name>
     </types>
     <types>
         <members>Case.Standard</members>
@@ -98,21 +131,30 @@
         <members>Account-Account %28Support%29 Layout</members>
         <members>Account-Account Layout</members>
         <members>Asset-Asset Layout</members>
+        <members>Book__c-Book Layout</members>
         <members>Campaign-Campaign Layout</members>
         <members>CampaignMember-Campaign Member Page Layout</members>
+        <members>Campsite_Reservation__c-Campsite Reservation Layout</members>
+        <members>Campsite__c-Campsite Layout</members>
         <members>CapOneDemo__c-CapOneDemo Layout</members>
         <members>Case-Case %28Marketing%29 Layout</members>
         <members>Case-Case %28Sales%29 Layout</members>
         <members>Case-Case %28Support%29 Layout</members>
         <members>Case-Case Layout</members>
         <members>CaseClose-Close Case Layout</members>
+        <members>CaseMilestone-Case Milestone Layout</members>
         <members>Contact-Contact %28Marketing%29 Layout</members>
         <members>Contact-Contact %28Sales%29 Layout</members>
         <members>Contact-Contact %28Support%29 Layout</members>
         <members>Contact-Contact Layout</members>
         <members>ContentVersion-Content Version Layout</members>
         <members>Contract-Contract Layout</members>
+        <members>ContractLineItem-Contract Line Item Layout</members>
+        <members>CustomObject1__c-CustomObject1 Layout</members>
+        <members>CustomObject2__c-CustomObject2 Layout</members>
+        <members>Entitlement-Entitlement Layout</members>
         <members>Event-Event Layout</members>
+        <members>Fundraiser__c-Fundraiser Layout</members>
         <members>Global-Global Layout</members>
         <members>Idea-Idea Layout</members>
         <members>Lead-Lead %28Marketing%29 Layout</members>
@@ -129,8 +171,10 @@
         <members>Pricebook2-Price Book Layout</members>
         <members>PricebookEntry-Price Book Entry Layout</members>
         <members>Product2-Product Layout</members>
+        <members>ServiceContract-Service Contract Layout</members>
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
+        <members>Test_OIbject__c-Test OIbject Layout</members>
         <members>User-User Layout</members>
         <name>Layout</name>
     </types>
@@ -147,6 +191,7 @@
         <members>Asset.AllAssets</members>
         <members>Campaign.AllActiveCampaigns</members>
         <members>Campaign.MyActiveCampaigns</members>
+        <members>Campsite__c.All</members>
         <members>Case.AllClosedCases</members>
         <members>Case.AllOpenCases</members>
         <members>Case.MyCases</members>
@@ -163,6 +208,7 @@
         <members>Contract.MyActivatedContracts</members>
         <members>Contract.MyDraftContracts</members>
         <members>Contract.MyInApprovalContracts</members>
+        <members>Fundraiser__c.All</members>
         <members>Lead.AllOpenLeads</members>
         <members>Lead.MyUnreadLeads</members>
         <members>Lead.TodaysLeads</members>
@@ -266,6 +312,12 @@
     <types>
         <members>ApexDevNet</members>
         <name>RemoteSiteSetting</name>
+    </types>
+    <types>
+        <members>Relationships_with_Entitlements_with_Contacts</members>
+        <members>Service_Contracts_with_Contract_Line_Items</members>
+        <members>Service_Contracts_with_Entitlements</members>
+        <name>ReportType</name>
     </types>
     <types>
         <members>CEO</members>

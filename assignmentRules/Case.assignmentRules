@@ -21,6 +21,9 @@
                 <operation>contains</operation>
                 <value>Customer</value>
             </criteriaItems>
+            <disableEscalationWhenModified>false</disableEscalationWhenModified>
+            <notifyCcRecipients>false</notifyCcRecipients>
+            <overrideExistingTeams>false</overrideExistingTeams>
         </ruleEntry>
         <ruleEntry>
             <assignedTo>evaacdev12@org.com</assignedTo>
@@ -40,6 +43,9 @@
                 <operation>contains</operation>
                 <value>Customer</value>
             </criteriaItems>
+            <disableEscalationWhenModified>false</disableEscalationWhenModified>
+            <notifyCcRecipients>false</notifyCcRecipients>
+            <overrideExistingTeams>false</overrideExistingTeams>
         </ruleEntry>
         <ruleEntry>
             <assignedTo>evaacdev12@org.com</assignedTo>
@@ -59,6 +65,9 @@
                 <operation>contains</operation>
                 <value>Customer</value>
             </criteriaItems>
+            <disableEscalationWhenModified>false</disableEscalationWhenModified>
+            <notifyCcRecipients>false</notifyCcRecipients>
+            <overrideExistingTeams>false</overrideExistingTeams>
         </ruleEntry>
         <ruleEntry>
             <assignedTo>evaacdev12@org.com</assignedTo>
@@ -78,6 +87,9 @@
                 <operation>contains</operation>
                 <value>Customer</value>
             </criteriaItems>
+            <disableEscalationWhenModified>false</disableEscalationWhenModified>
+            <notifyCcRecipients>false</notifyCcRecipients>
+            <overrideExistingTeams>false</overrideExistingTeams>
         </ruleEntry>
         <ruleEntry>
             <assignedTo>evaacdev12@org.com</assignedTo>
@@ -87,6 +99,9 @@
                 <operation>contains</operation>
                 <value>Partner</value>
             </criteriaItems>
+            <disableEscalationWhenModified>false</disableEscalationWhenModified>
+            <notifyCcRecipients>false</notifyCcRecipients>
+            <overrideExistingTeams>false</overrideExistingTeams>
         </ruleEntry>
     </assignmentRule>
 </AssignmentRules>

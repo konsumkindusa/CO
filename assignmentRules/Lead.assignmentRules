@@ -11,6 +11,9 @@
                 <operation>equals</operation>
                 <value>US,USA,United States,United States of America</value>
             </criteriaItems>
+            <disableEscalationWhenModified>false</disableEscalationWhenModified>
+            <notifyCcRecipients>false</notifyCcRecipients>
+            <overrideExistingTeams>false</overrideExistingTeams>
         </ruleEntry>
         <ruleEntry>
             <assignedTo>evaacdev12@org.com</assignedTo>
@@ -20,6 +23,9 @@
                 <operation>notEqual</operation>
                 <value>US,USA,United States,United States of America</value>
             </criteriaItems>
+            <disableEscalationWhenModified>false</disableEscalationWhenModified>
+            <notifyCcRecipients>false</notifyCcRecipients>
+            <overrideExistingTeams>false</overrideExistingTeams>
         </ruleEntry>
     </assignmentRule>
 </AssignmentRules>
