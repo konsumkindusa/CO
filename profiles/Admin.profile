@@ -1171,6 +1171,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Objecttest2__c.Objecttestpick__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Opportunity.AccountId</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1733,6 +1738,9 @@
     <layoutAssignments>
         <layout>UserProvisioningRequest-User Provisioning Request Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>Objecttest2__c-Objecttest2 Layout</layout>
+    </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>
@@ -1929,6 +1937,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Macro</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Objecttest2__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>39.0</version>
     <types>
         <members>HelloWorldTestClass</members>
         <members>MyHelloWorld</members>
@@ -80,6 +81,7 @@
         <members>Lead.ProductInterest__c</members>
         <members>Lead.SICCode__c</members>
         <members>Metric.OrigMetricId__c</members>
+        <members>Objecttest2__c.Objecttestpick__c</members>
         <members>Opportunity.CurrentGenerators__c</members>
         <members>Opportunity.DeliveryInstallationStatus__c</members>
         <members>Opportunity.MainCompetitors__c</members>
@@ -134,6 +136,7 @@
         <members>Macro</members>
         <members>MacroAction</members>
         <members>MacroInstruction</members>
+        <members>Objecttest2__c</members>
         <members>Opportunity</members>
         <members>OpportunityCompetitor</members>
         <members>OpportunityContactRole</members>
@@ -243,6 +246,7 @@
         <members>Lead-Lead %28Support%29 Layout</members>
         <members>Lead-Lead Layout</members>
         <members>Macro-Macro Layout</members>
+        <members>Objecttest2__c-Objecttest2 Layout</members>
         <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
         <members>Opportunity-Opportunity %28Sales%29 Layout</members>
         <members>Opportunity-Opportunity %28Support%29 Layout</members>
@@ -442,6 +446,34 @@
         <name>Role</name>
     </types>
     <types>
+        <members>Account</members>
+        <members>Activities</members>
+        <members>Address</members>
+        <members>BusinessHours</members>
+        <members>Case</members>
+        <members>Company</members>
+        <members>Contract</members>
+        <members>Entitlement</members>
+        <members>FileUploadAndDownloadSecurity</members>
+        <members>Forecasting</members>
+        <members>Ideas</members>
+        <members>Knowledge</members>
+        <members>LiveAgent</members>
+        <members>Macro</members>
+        <members>Mobile</members>
+        <members>Name</members>
+        <members>Opportunity</members>
+        <members>Order</members>
+        <members>OrgPreference</members>
+        <members>PathAssistant</members>
+        <members>PersonalJourney</members>
+        <members>Product</members>
+        <members>Quote</members>
+        <members>Search</members>
+        <members>Security</members>
+        <name>Settings</name>
+    </types>
+    <types>
         <members>AccountContactMultiRoles</members>
         <members>AccountContactRole</members>
         <members>AccountOwnership</members>
@@ -508,33 +540,4 @@
         <members>Opportunity.DeliveryStatus</members>
         <name>WebLink</name>
     </types>
-    <types>
-        <members>Account</members>
-        <members>Activities</members>
-        <members>Address</members>
-        <members>BusinessHours</members>
-        <members>Case</members>
-        <members>Company</members>
-        <members>Contract</members>
-        <members>Entitlement</members>
-        <members>FileUploadAndDownloadSecurity</members>
-        <members>Forecasting</members>
-        <members>Ideas</members>
-        <members>Knowledge</members>
-        <members>LiveAgent</members>
-        <members>Macro</members>
-        <members>Mobile</members>
-        <members>Name</members>
-        <members>Opportunity</members>
-        <members>Order</members>
-        <members>OrgPreference</members>
-        <members>PathAssistant</members>
-        <members>PersonalJourney</members>
-        <members>Product</members>
-        <members>Quote</members>
-        <members>Search</members>
-        <members>Security</members>
-        <name>Settings</name>
-    </types>
-    <version>39.0</version>
 </Package>
