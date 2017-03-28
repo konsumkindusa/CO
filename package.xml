@@ -73,6 +73,7 @@
         <members>Case.SLAViolation__c</members>
         <members>Contact.Languages__c</members>
         <members>Contact.Level__c</members>
+        <members>Dexcom__c.DexcomPick__c</members>
         <members>Dexcomtest__c.Dexcomtestpick__c</members>
         <members>Goal.OrigGoalId__c</members>
         <members>Lead.CurrentGenerators__c</members>
@@ -119,6 +120,7 @@
         <members>CustomObject1__c</members>
         <members>CustomObject2__c</members>
         <members>DandBCompany</members>
+        <members>Dexcom__c</members>
         <members>Dexcomtest__c</members>
         <members>DuplicateRecordItem</members>
         <members>DuplicateRecordSet</members>
@@ -233,6 +235,7 @@
         <members>CustomObject1__c-CustomObject1 Layout</members>
         <members>CustomObject2__c-CustomObject2 Layout</members>
         <members>DandBCompany-D%26B Company Layout</members>
+        <members>Dexcom__c-Dexcom Layout</members>
         <members>Dexcomtest__c-Dexcomtest Layout</members>
         <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
         <members>EmailMessage-Email Message Layout</members>
