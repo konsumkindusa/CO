@@ -59,6 +59,7 @@
         <members>Account.SLAExpirationDate__c</members>
         <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
+        <members>Account.Test_Migrate_Field__c</members>
         <members>Account.UpsellOpportunity__c</members>
         <members>Book__c.Price__c</members>
         <members>Campsite_Reservation__c.Campsite__c</members>
