@@ -90,12 +90,12 @@
             </valueSetDefinition>
         </valueSet>
     </fields>
-    <label>Ondeck2</label>
+    <label>Ondeck3</label>
     <nameField>
         <label>Ondeck Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>OnDeck2s</pluralLabel>
+    <pluralLabel>OnDeck3s</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
