@@ -54,7 +54,7 @@
     <fields>
         <fullName>OnDeck_Picklist__c</fullName>
         <externalId>false</externalId>
-        <label>OnDeck Picklist</label>
+        <label>OnDeck2 Picklist</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Picklist</type>
@@ -90,12 +90,12 @@
             </valueSetDefinition>
         </valueSet>
     </fields>
-    <label>Ondeck</label>
+    <label>Ondeck2</label>
     <nameField>
         <label>Ondeck Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>OnDecks</pluralLabel>
+    <pluralLabel>OnDeck2s</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
