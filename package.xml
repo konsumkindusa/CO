@@ -54,6 +54,7 @@
     <types>
         <members>Account.AccountStatus__c</members>
         <members>Account.Active__c</members>
+        <members>Account.AutorabitExtId__c</members>
         <members>Account.CustomerPriority__c</members>
         <members>Account.NumberofLocations__c</members>
         <members>Account.SLAExpirationDate__c</members>
@@ -68,10 +69,12 @@
         <members>Campsite_Reservation__c.User__c</members>
         <members>Campsite__c.Description__c</members>
         <members>CapOneDemo__c.CapOneDemoName__c</members>
+        <members>Case.AutorabitExtId__c</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.PotentialLiability__c</members>
         <members>Case.Product__c</members>
         <members>Case.SLAViolation__c</members>
+        <members>Contact.AutorabitExtId__c</members>
         <members>Contact.Languages__c</members>
         <members>Contact.Level__c</members>
         <members>Dexcom__c.DexcomPick__c</members>
@@ -85,6 +88,7 @@
         <members>Metric.OrigMetricId__c</members>
         <members>Objecttest2__c.Objecttestpick__c</members>
         <members>Ondeck__c.OnDeck_Picklist__c</members>
+        <members>Opportunity.AutorabitExtId__c</members>
         <members>Opportunity.CurrentGenerators__c</members>
         <members>Opportunity.DeliveryInstallationStatus__c</members>
         <members>Opportunity.MainCompetitors__c</members>
