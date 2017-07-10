@@ -141,6 +141,7 @@
     </fields>
     <fields>
         <fullName>Autorabit__c</fullName>
+        <description>Test 4:34PM</description>
         <externalId>false</externalId>
         <label>Autorabit</label>
         <length>50</length>
