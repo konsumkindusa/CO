@@ -49,6 +49,10 @@
                 <behavior>Edit</behavior>
                 <field>Test_Migrate_Field__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Autorabit__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
