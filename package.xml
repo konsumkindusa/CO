@@ -183,6 +183,8 @@
     </types>
     <types>
         <members>unfiled$public</members>
+        <members>unfiled$public/MarketingProductInquiryResponse</members>
+        <members>unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE</members>
         <name>EmailTemplate</name>
     </types>
     <types>
